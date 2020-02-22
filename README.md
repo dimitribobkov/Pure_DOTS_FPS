@@ -3,10 +3,10 @@
 Made with Unity, anyone can download and play. Feel free to share with your freinds!
 
 
-Controls:
-Mouse for camera movement
-WASD for forward, left, back and right
-Have fun!
+<p>Controls:</p>
+<p>Mouse for camera movement</p>
+<p>WASD for forward, left, back and right</p>
+<p>Have fun!</p>
 
 
 <strong>Windows x64 support<strong>
