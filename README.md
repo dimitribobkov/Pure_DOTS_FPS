@@ -6,6 +6,7 @@ Made with Unity, anyone can download and play. Feel free to share with your frei
 <p>Controls:</p>
 <p>Mouse for camera movement</p>
 <p>WASD for forward, left, back and right</p>
+<p>ESC to show cursor, and hide it</p>
 <p>Have fun!</p>
 
 
