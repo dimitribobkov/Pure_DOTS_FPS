@@ -1,5 +1,4 @@
-# Pure_DOTS_FPS
-<h1>Pure DOTS FPS!</h1>
+#Pure DOTS FPS
 
 Made with Unity, anyone can download and play. Feel free to share with your freinds!
 
